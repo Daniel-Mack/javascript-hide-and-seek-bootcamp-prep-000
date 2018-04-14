@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
- document.getElementsByClassName('target')
+ document.getElementsByClassName("unranked-list")
  return selector
 }
