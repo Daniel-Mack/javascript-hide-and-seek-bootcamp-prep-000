@@ -1,3 +1,4 @@
 function getFirstSelector(selector) {
- document.querySelector(.target)
+ document.getElementsByClassName(target)
+ return selector
 }
