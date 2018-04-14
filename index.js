@@ -6,4 +6,6 @@ function getFirstSelector(selector) {
    return document.querySelector('#nested, .target')
  }
  
-function 
+function deepestChild() {
+  return document.querySelector('#grand-node')
+}
